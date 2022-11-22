@@ -4,8 +4,7 @@
 
 Вам принесли дизайн-макет, похожий на этот:
 
-![](https://github.com/netology-code/ra16-homeworks/raw/master/composition/decomposition/assets/decomposition.png)
-
+![Макет для декомпозиции](https://github.com/netology-code/ra16-homeworks/blob/master/composition/decomposition/assets/decomposition.png)
 Что вам нужно сделать:
 
 1. Разбейте весь интерфейс на компоненты и в файле каждого компонента напишите буквально одну строку комментария, за что данный компонент отвечает. Можете использовать формат JSDoc, детали про него можно посмотреть по ссылке: https://react-styleguidist.js.org/docs/documenting/.
